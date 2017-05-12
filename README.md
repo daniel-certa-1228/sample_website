@@ -1,6 +1,8 @@
 # Sample Website README
 
-##README
+**Here is something in Bold.**
+
+Might as well *italicize* something as well.
 
 This is a sample README for this Website.
 
